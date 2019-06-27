@@ -1,11 +1,11 @@
 # E-commerce
-- Ecommerce History
-- Legal Obligations For Ecommerce
-- Ecommerce Startup
-- Drop Shipping Model
-- Ecommerce Technologies
-- Data Analytics In Ecommerce
-- Case Study
+- 电子商务发展史
+- 电子商务的法规法则
+- 开展电子商务事项
+- 抛弃传统零售业的供应货物方式
+- 电子商务技术
+- 电子商务中的数据分析
+- 案例解析
 
 ## 思考
 - 1.作为一名电商公司的数据分析师，您的老板希望提高平台的销量。你会建议从什么关键指标上着手？
